@@ -71300,7 +71300,7 @@ g=B.b8.vR(A.a9(["message",A.a9(["topic","global_notifications","notification",A.
 s=10
 return A.S(j.uu("POST",A.fP(h),A.a9(["Content-Type","application/json","Authorization","Bearer "+i.a.b],c,c),g,null),$async$lw)
 case 10:f=a7
-if(f.b===200)A.uH(B.FP,18,B.jj,"\ud478\uc2dc \uc54c\ub9bc \uc804\uc1a1 \uc131\uacf5!",3,B.h4)
+if(f.b===200)A.uH(B.FP,18,B.jj,"\ud478\uc2dc \uc54c\ub9bc \uc804\uc1a1 \uc131\uacf5!",5,B.h4)
 else{a4=f
 A.uH(B.qB,18,B.jj,"\uc54c\ub9bc \uc804\uc1a1 \uc624\ub958: "+A.aD_(A.aAW(a4.e).c.a.h(0,"charset")).eA(a4.w),3,B.h4)}n.push(7)
 s=6
